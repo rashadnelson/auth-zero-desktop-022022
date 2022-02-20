@@ -1,0 +1,16 @@
+{
+  "name": "auth-zero-022022",
+  "version": "1.0.0",
+  "description": "Auth0 tutorial / setup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rashad Nelson",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-openid-connect": "^2.7.0"
+  }
+}
